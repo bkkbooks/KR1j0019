@@ -528,6 +528,7 @@ markers:
       ', id: KR1j0019_krp_013-bkkkrnewl44}
   - {type: line-break, offset: 1334, content: '', id: KR1j0019_SBCK_013-5b02}
   - {type: punctuation, offset: 1334, content: (, id: KR1j0019_krp_013-bkkpn215}
+  - {type: 'voice:problem', offset: 1334, length: 0, id: KR1j0019_bkk_013-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 1334}
   - {type: substitution, offset: 1335, original: 戸, replacement: 戶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20775}}
   - {type: punctuation, offset: 1336, content: /, id: KR1j0019_krp_013-bkkpn216}
   body:
@@ -537,6 +538,7 @@ markers:
       ', id: KR1j0019_krp_013-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR1j0019_SBCK_013-5b03}
   - {type: indent, offset: 0, content: 　　　　, id: KR1j0019_krp_013-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR1j0019_bkk_013-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: indent, offset: 3, content: 　, id: KR1j0019_krp_013-bkkind2}
   - {type: 'kr:newline', offset: 5, content: '
 
@@ -3551,4 +3553,4 @@ markers:
 
       ', id: KR1j0019_krp_013-bkkkrnewl298}
   back: []
-hash: sha256:d2a87b1af04506f8bb9818795c3533bc005a5fbba058e25e1bb14e861ddbe7a3
+hash: sha256:3cb786836b808f42ab349d2edf753b59887b08a57d1667b4fc8f77d18a745170

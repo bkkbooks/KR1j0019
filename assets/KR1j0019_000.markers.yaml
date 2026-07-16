@@ -18,6 +18,7 @@ markers:
   - {type: variant, offset: 15, length: 1, content: 候, SBCK: 􅃸}
   - {type: variant, offset: 20, length: 1, content: 篆, SBCK: 􅂐}
   - {type: punctuation, offset: 24, content: (, id: KR1j0019_krp_000-bkkpn1}
+  - {type: voice, offset: 24, length: 17, name: note, id: n1}
   - {type: punctuation, offset: 26, content: /, id: KR1j0019_krp_000-bkkpn2}
   - {type: punctuation, offset: 28, content: ), id: KR1j0019_krp_000-bkkpn3}
   - {type: 'kr:newline', offset: 28, content: '
@@ -465,4 +466,4 @@ markers:
 
       ', id: KR1j0019_krp_000-bkkkrnewl84}
   back: []
-hash: sha256:162d29f0e27476b61ff84bf3e90bddfff935b211cc9443f4584d908442d24cc2
+hash: sha256:5ac439e7b2c7c1c38ca41d069796ffccf30c385840034160dfed2043478da2bc

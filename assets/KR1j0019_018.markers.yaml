@@ -421,6 +421,7 @@ markers:
       ', id: KR1j0019_krp_018-bkkkrnewl34}
   - {type: line-break, offset: 1022, content: '', id: KR1j0019_SBCK_018-3a02}
   - {type: punctuation, offset: 1022, content: (, id: KR1j0019_krp_018-bkkpn179}
+  - {type: 'voice:problem', offset: 1022, length: 0, id: KR1j0019_bkk_018-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 1022}
   - {type: substitution, offset: 1023, original: 皃, replacement: 貌, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19950}}
   - {type: punctuation, offset: 1027, content: /, id: KR1j0019_krp_018-bkkpn180}
   - {type: substitution, offset: 1027, original: 声, replacement: 聲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16472}}
@@ -433,6 +434,7 @@ markers:
       ', id: KR1j0019_krp_018-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR1j0019_SBCK_018-3a03}
   - {type: indent, offset: 0, content: 　　　, id: KR1j0019_krp_018-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR1j0019_bkk_018-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: indent, offset: 4, content: 　, id: KR1j0019_krp_018-bkkind2}
   - {type: 'kr:newline', offset: 6, content: '
 
@@ -1990,4 +1992,4 @@ markers:
 
       ', id: KR1j0019_krp_018-bkkkrnewl144}
   back: []
-hash: sha256:e3a4bce74c9865b4de203212bbf018107ac4d5ca8a675c95478700e30652c5fb
+hash: sha256:3e95ec3612b73fae32a8e0e1e8a824d98c00a94ad8e0a6ba9f1da5aefbc7f07d

@@ -120,6 +120,7 @@ markers:
       ', id: KR1j0019_krp_002-bkkkrnewl11}
   - {type: line-break, offset: 329, content: '', id: KR1j0019_SBCK_002-1b03}
   - {type: punctuation, offset: 329, content: (, id: KR1j0019_krp_002-bkkpn42}
+  - {type: 'voice:problem', offset: 329, length: 0, id: KR1j0019_bkk_002-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 329}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR1j0019_krp_002-bkkpn1}
   - {type: 'kr:newline', offset: 0, content: '
@@ -127,6 +128,7 @@ markers:
       ', id: KR1j0019_krp_002-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR1j0019_SBCK_002-1b04}
   - {type: indent, offset: 0, content: 　　　　　, id: KR1j0019_krp_002-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR1j0019_bkk_002-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: indent, offset: 2, content: 　, id: KR1j0019_krp_002-bkkind2}
   - {type: 'kr:newline', offset: 4, content: '
 
@@ -3753,4 +3755,4 @@ markers:
 
       ', id: KR1j0019_krp_002-bkkkrnewl310}
   back: []
-hash: sha256:87f392706e3805a2dbc0fb71bbdd06c6b4289d7dd0d5b80427d46c1a8eb499f9
+hash: sha256:4ade9e80001b68b0537e86afdb009e72f14bf2947a9a490092ad7fc03d5109d3
