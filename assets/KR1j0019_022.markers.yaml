@@ -13,8 +13,8 @@ markers:
   - {type: punctuation, offset: 10, content: /, id: KR1j0019_krp_022-bkkpn3}
   - {type: variant, offset: 10, length: 1, content: 篆, SBCK: 􅂐}
   - {type: punctuation, offset: 17, content: /, id: KR1j0019_krp_022-bkkpn4}
+  - {type: punctuation, offset: 23, content: ), id: KR1j0019_krp_022-bkkpn1}
   body:
-  - {type: punctuation, offset: 0, content: ), id: KR1j0019_krp_022-bkkpn1}
   - {type: 'kr:newline', offset: 0, content: '
 
       ', id: KR1j0019_krp_022-bkkkrnewl1}
@@ -1756,4 +1756,4 @@ markers:
 
       ', id: KR1j0019_krp_022-bkkkrnewl161}
   back: []
-hash: sha256:70da676db8d1d3f9a74a67cef4bc5b4ae7dbb93ca06f344bd17a3c0e44247127
+hash: sha256:80a845df1a507997440fd24dd08e262ba12269ff3d9d463e4af1ed9149214c5d

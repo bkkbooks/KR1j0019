@@ -11,8 +11,8 @@ markers:
   - {type: 'voice:problem', offset: 0, length: 0, id: KR1j0019_bkk_003-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 0}
   - {type: substitution, offset: 2, original: 姉, replacement: 姊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16611}}
   - {type: punctuation, offset: 3, content: /, id: KR1j0019_krp_003-bkkpn2}
+  - {type: punctuation, offset: 5, content: ), id: KR1j0019_krp_003-bkkpn1}
   body:
-  - {type: punctuation, offset: 0, content: ), id: KR1j0019_krp_003-bkkpn1}
   - {type: 'kr:newline', offset: 0, content: '
 
       ', id: KR1j0019_krp_003-bkkkrnewl1}
@@ -2570,4 +2570,4 @@ markers:
 
       ', id: KR1j0019_krp_003-bkkkrnewl241}
   back: []
-hash: sha256:b35cac401de9efaf417820632a45bc37ccca85b660ccb013caf78742ebadef46
+hash: sha256:97dec116ee0591ded23aa55f20fae7426583ba205db55b76a49cc7ae939bfd62
